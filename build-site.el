@@ -60,5 +60,5 @@
 ;; Generate the site output
 (org-publish-all t)
 
-(message "Build complete!")
+;; (message "Build complete!")
 ;;; build-site.el ends here
