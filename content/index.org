@@ -2,7 +2,10 @@
 
 * Welcome to my website!!!:
 This is supposed to be my website! Welcome brothers, I am doing de work of de gawds
+#+begin_src python
+import numpy as np
 
+print("Parrots are kinda domb 🦜")
 #+begin_src cpp
 #include <iostream>
 using namespace std;
